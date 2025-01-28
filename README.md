@@ -26,7 +26,7 @@ The content is designed for students, researchers, and policymakers with an inte
 
 ## 📂 Repository Structure
 
-- `datasets/`: Contains datasets used for exercises and examples.
+- `scripts/datasets/`: Contains datasets used for exercises and examples.
 - `scripts/`: Includes all code files for replicating analyses.
 - `lectures/`: Lecture slides and notes.
 - `assignments/`: Problem sets and project guidelines.
